@@ -32,7 +32,9 @@ excel-analise-de-dados/
 ## ▶️ Como utilizar
 Clone o repositório: git clone https://github.com/GabrielaSouzaDev/excel-analise-de-dados.git 
 
-Abra o arquivo .xlsx no Microsoft Excel. Instale a biblioteca pandas e openpyxl
+Abra o arquivo .xlsx no Microsoft Excel. 
+
+Instale a biblioteca pandas e openpyxl
 
 ## 📈 Objetivo do Projeto
 O objetivo deste projeto é demonstrar técnicas de análise de dados utilizando Excel, aplicando recursos de organização, visualização e interpretação de dados para apoiar tomadas de decisão.
